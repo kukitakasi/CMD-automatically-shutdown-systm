@@ -6,12 +6,12 @@
 And edit command, 
 
 
-*You can write your own message example-- 'example message' 
+*You can write your own message example-- "example message"
 Like that and 
 
 *you can edit and adjust time 
 
-Note:you can edit time only in seconds works(example- 60s or, 120s)) 
+Note:you can edit time only in seconds works(example- 60s or, 120s)
 Whan all set then save file on desktop or anywhere 
 Save this file and give file name is example.bat
 
